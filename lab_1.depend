@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1765356861 source:c:\labs_osnovi\lab_1\lib.cpp
+	"lib.h"
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iostream>
+
+1765354914 c:\labs_osnovi\lab_1\lib.h
+	<vector>
+	<string>
+
+1765356471 source:c:\labs_osnovi\lab_1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<locale>
+	<windows.h>
+	"lib.h"
+
